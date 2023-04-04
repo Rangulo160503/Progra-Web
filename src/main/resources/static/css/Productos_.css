@@ -1,0 +1,724 @@
+.mediaViewInfo {
+	--web-view-name: Productos ;
+	--web-view-id: Productos_;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Productos_;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Productos_ {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(254,193,6,1);
+	overflow: hidden;
+	--web-view-name: Productos ;
+	--web-view-id: Productos_;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_2 {
+	fill: rgba(255,114,92,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 770px;
+	height: 886px;
+	left: 0px;
+	top: 194px;
+}
+#Rectangle_6200 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_6200 {
+	position: absolute;
+	overflow: visible;
+	width: 1067px;
+	height: 445px;
+	left: 834px;
+	top: 393px;
+}
+#Path_10446 {
+	fill: rgba(255,255,255,1);
+}
+.Path_10446 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 1938px;
+	height: 216px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_1 {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	height: 193px;
+	left: 42px;
+	top: 10px;
+}
+#Group_16037 {
+	position: absolute;
+	width: 989px;
+	height: 46px;
+	left: 844px;
+	top: 80px;
+	overflow: visible;
+}
+#Group_5 {
+	position: absolute;
+	width: 727px;
+	height: 34px;
+	left: 135px;
+	top: 2px;
+	overflow: visible;
+}
+#Group_1 {
+	position: absolute;
+	width: 148px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Productos {
+	left: 33px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(19,18,18,1);
+}
+#Icon_simple-cakephp {
+	fill: rgba(19,18,18,1);
+}
+.Icon_simple-cakephp {
+	overflow: visible;
+	position: absolute;
+	width: 23.863px;
+	height: 17.994px;
+	left: 0px;
+	top: 8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_2 {
+	position: absolute;
+	width: 133.497px;
+	height: 33px;
+	left: 200.502px;
+	top: 1px;
+	overflow: visible;
+}
+#Comprar {
+	left: 34.498px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Icon_ionic-ios-cart {
+	position: absolute;
+	width: 23.259px;
+	height: 20px;
+	left: 0px;
+	top: 7px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(112,112,112,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 3.375px;
+	height: 3.375px;
+	left: 4.751px;
+	top: 16.625px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2 {
+	fill: rgba(112,112,112,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 3.375px;
+	height: 3.375px;
+	left: 16.045px;
+	top: 16.625px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3 {
+	fill: rgba(112,112,112,1);
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 23.259px;
+	height: 15.493px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_4 {
+	position: absolute;
+	width: 129px;
+	height: 33px;
+	left: 598px;
+	top: 0px;
+	overflow: visible;
+}
+#Contacto {
+	left: 26px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Ellipse_2 {
+	fill: rgba(112,112,112,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 25px;
+	left: 0px;
+	top: 4px;
+}
+#Icon_ionic-ios-call {
+	fill: rgba(255,255,255,1);
+}
+.Icon_ionic-ios-call {
+	overflow: visible;
+	position: absolute;
+	width: 15.216px;
+	height: 12.5px;
+	left: 3.892px;
+	top: 10.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_16029 {
+	position: absolute;
+	width: 95px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Login {
+	left: 32px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Icon_awesome-user {
+	fill: rgba(112,112,112,1);
+}
+.Icon_awesome-user {
+	overflow: visible;
+	position: absolute;
+	width: 22px;
+	height: 26.997px;
+	left: 0px;
+	top: 3.001px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_16031 {
+	position: absolute;
+	width: 119px;
+	height: 33px;
+	left: 558.249px;
+	top: 3px;
+	overflow: visible;
+}
+#Ubicacin_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Group_16032 {
+	position: absolute;
+	width: 79.497px;
+	height: 33px;
+	left: 909.502px;
+	top: 3px;
+	overflow: visible;
+}
+#Ms {
+	left: 32.498px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Icon_material-more-horiz {
+	fill: rgba(112,112,112,1);
+}
+.Icon_material-more-horiz {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 6px;
+	left: 0px;
+	top: 13.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_material-location-on {
+	fill: rgba(112,112,112,1);
+}
+.Icon_material-location-on {
+	overflow: visible;
+	position: absolute;
+	width: 21px;
+	height: 30px;
+	left: 528px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_10440 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_10440 {
+	overflow: visible;
+	position: absolute;
+	width: 101px;
+	height: 1px;
+	left: 174px;
+	top: 46px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_16043 {
+	opacity: 0.25;
+	position: absolute;
+	width: 547px;
+	height: 753.348px;
+	left: 67px;
+	top: 260.326px;
+	overflow: visible;
+}
+#Rectangle_6195 {
+	fill: transparent;
+}
+.Rectangle_6195 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 565px;
+	height: 771px;
+	left: 0px;
+	top: 0px;
+}
+#Path_10442 {
+	fill: transparent;
+}
+.Path_10442 {
+	overflow: visible;
+	position: absolute;
+	width: 10.001px;
+	height: 13.373px;
+	left: 529.051px;
+	top: 739.974px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#n_theflavorfactory_logo_colord {
+	filter: drop-shadow(10px 15px 15px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 175px;
+	height: 175px;
+	left: 43px;
+	top: 10px;
+	overflow: visible;
+}
+#Scroll_Group_9 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 335px;
+	height: 645px;
+	left: 173px;
+	top: 369px;
+	overflow: hidden;
+}
+#Component_1__1 {
+	position: absolute;
+	width: 335px;
+	height: 227px;
+	left: 0px;
+	top: -6px;
+	overflow: visible;
+}
+#NoPath_-_Copy_10 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 335px;
+	height: 227px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_7 {
+	fill: rgba(254,193,6,1);
+}
+.Rectangle_7 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 353px;
+	height: 99px;
+	left: 0px;
+	top: 146px;
+}
+#Brigadeiro_de_chocolate {
+	left: 64px;
+	top: 170px;
+	position: absolute;
+	overflow: visible;
+	width: 258px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#Icon_ionic-md-pricetag {
+	fill: rgba(255,255,255,1);
+}
+.Icon_ionic-md-pricetag {
+	overflow: visible;
+	position: absolute;
+	width: 27.001px;
+	height: 26.993px;
+	left: 25.499px;
+	top: 172.004px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_1__2 {
+	position: absolute;
+	width: 335px;
+	height: 227px;
+	left: 0px;
+	top: 251px;
+	overflow: visible;
+}
+#NoPath_-_Copy_12 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 335px;
+	height: 227px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_7_bl {
+	fill: rgba(254,193,6,1);
+}
+.Rectangle_7_bl {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 353px;
+	height: 99px;
+	left: 0px;
+	top: 146px;
+}
+#Alfajores {
+	left: 64px;
+	top: 170px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#Icon_ionic-md-pricetag_bn {
+	fill: rgba(255,255,255,1);
+}
+.Icon_ionic-md-pricetag_bn {
+	overflow: visible;
+	position: absolute;
+	width: 27.001px;
+	height: 26.993px;
+	left: 25.499px;
+	top: 172.003px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Component_1__3 {
+	position: absolute;
+	width: 335px;
+	height: 227px;
+	left: 0px;
+	top: 508px;
+	overflow: visible;
+}
+#NoPath_-_Copy_13 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 335px;
+	height: 227px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_7_bq {
+	fill: rgba(254,193,6,1);
+}
+.Rectangle_7_bq {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 353px;
+	height: 99px;
+	left: 0px;
+	top: 146px;
+}
+#Brigadeiro_de_churchill {
+	left: 64px;
+	top: 170px;
+	position: absolute;
+	overflow: visible;
+	width: 246px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#Icon_ionic-md-pricetag_bs {
+	fill: rgba(255,255,255,1);
+}
+.Icon_ionic-md-pricetag_bs {
+	overflow: visible;
+	position: absolute;
+	width: 27.001px;
+	height: 26.993px;
+	left: 25.499px;
+	top: 172.003px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Producto_preferido {
+	left: 960px;
+	top: 318px;
+	position: absolute;
+	overflow: visible;
+	width: 260px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(19,18,18,1);
+}
+#Component_1__4 {
+	position: absolute;
+	width: 335px;
+	height: 227px;
+	left: 908px;
+	top: 502px;
+	overflow: visible;
+}
+#NoPath_-_Copy_10_bv {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 335px;
+	height: 227px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_7_bw {
+	fill: rgba(254,193,6,1);
+}
+.Rectangle_7_bw {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 353px;
+	height: 99px;
+	left: 0px;
+	top: 146px;
+}
+#Brigadeiro_de_chocolate_bx {
+	left: 64px;
+	top: 170px;
+	position: absolute;
+	overflow: visible;
+	width: 258px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#Icon_ionic-md-pricetag_by {
+	fill: rgba(255,255,255,1);
+}
+.Icon_ionic-md-pricetag_by {
+	overflow: visible;
+	position: absolute;
+	width: 27.001px;
+	height: 26.993px;
+	left: 25.499px;
+	top: 172.003px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Mejores_ofertas_ {
+	left: 1506px;
+	top: 320px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(19,18,18,1);
+}
+#Rectangle_6196 {
+	position: absolute;
+	width: 507px;
+	height: 227px;
+	left: 1375px;
+	top: 493px;
+	overflow: visible;
+}
+#Line_6 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_6 {
+	overflow: visible;
+	position: absolute;
+	width: 388.508px;
+	height: 4px;
+	left: 908px;
+	top: 472.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_6201 {
+	fill: transparent;
+}
+.Rectangle_6201 {
+	position: absolute;
+	overflow: visible;
+	width: 742px;
+	height: 67px;
+	left: 1079px;
+	top: 729px;
+}
+#n_0_descuento_en_Alfajores {
+	left: 1461px;
+	top: 743px;
+	position: absolute;
+	overflow: visible;
+	width: 373px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(254,193,6,1);
+}
+#Productos_disponibles {
+	left: 190px;
+	top: 280px;
+	position: absolute;
+	overflow: visible;
+	width: 302px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(15,1,1,1);
+}

@@ -1,0 +1,838 @@
+.mediaViewInfo {
+	--web-view-name: Contacto;
+	--web-view-id: Contacto;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Contacto;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Contacto {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Contacto;
+	--web-view-id: Contacto;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1938px;
+	height: 216px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_2 {
+	fill: rgba(254,206,58,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 876px;
+	height: 882px;
+	left: 0px;
+	top: 198px;
+}
+#Scroll_Group_3 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 705px;
+	height: 882px;
+	left: 1070px;
+	top: 198px;
+	overflow: hidden;
+}
+#NoPath_-_Copy_15 {
+	position: absolute;
+	width: 705px;
+	height: 225px;
+	left: 0px;
+	top: 1166px;
+	overflow: visible;
+}
+#Group_15 {
+	position: absolute;
+	width: 164px;
+	height: 40px;
+	left: 331px;
+	top: 912px;
+	overflow: visible;
+}
+#Contacto_l {
+	left: 41px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Ellipse_2 {
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 25px;
+	left: 0px;
+	top: 8px;
+}
+#Icon_ionic-ios-call {
+	fill: rgba(254,206,58,1);
+}
+.Icon_ionic-ios-call {
+	overflow: visible;
+	position: absolute;
+	width: 15.216px;
+	height: 12.5px;
+	left: 3.892px;
+	top: 13.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#NoPath_-_Copy_16 {
+	opacity: 0.63;
+	position: absolute;
+	width: 1044px;
+	height: 295px;
+	left: 876px;
+	top: 198px;
+	overflow: visible;
+}
+#Cmo_podemos_ayudarte {
+	left: 1150px;
+	top: 341px;
+	position: absolute;
+	overflow: visible;
+	width: 497px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#n_theflavorfactory_logo_colord {
+	filter: drop-shadow(10px 15px 15px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 314px;
+	height: 314px;
+	left: 281px;
+	top: 383px;
+	overflow: visible;
+}
+#n_theflavorfactory_logo_colord_r {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 176px;
+	height: 175px;
+	left: 38px;
+	top: 12px;
+	overflow: visible;
+}
+#Icon_ionic-md-chatboxes {
+	position: absolute;
+	width: 57.513px;
+	height: 58.015px;
+	left: 1369.244px;
+	top: 282.985px;
+	overflow: visible;
+}
+#Path_9 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_9 {
+	overflow: visible;
+	position: absolute;
+	width: 50.527px;
+	height: 51.878px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_10 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_10 {
+	overflow: visible;
+	position: absolute;
+	width: 42.643px;
+	height: 52.047px;
+	left: 18.137px;
+	top: 9.518px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Nuestros_medios_de_contacto_bb {
+	left: 1199px;
+	top: 570px;
+	position: absolute;
+	overflow: visible;
+	width: 400px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Group_20 {
+	position: absolute;
+	width: 636px;
+	height: 317px;
+	left: 1080px;
+	top: 687px;
+	overflow: visible;
+}
+#Group_18 {
+	position: absolute;
+	width: 246px;
+	height: 317px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_11 {
+	fill: rgba(255,255,255,1);
+}
+.Path_11 {
+	filter: drop-shadow(0px 10px 15px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 291px;
+	height: 362px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#WhatsApp {
+	left: 62px;
+	top: 159px;
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Group_7 {
+	position: absolute;
+	width: 152px;
+	height: 61px;
+	left: 47px;
+	top: 240px;
+	overflow: visible;
+}
+#Rectangle_5 {
+	fill: transparent;
+	stroke: rgba(254,206,58,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+}
+#Visitar {
+	left: 46px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(254,206,58,1);
+}
+#NoPath_-_Copy_3 {
+	position: absolute;
+	width: 126px;
+	height: 122px;
+	left: 61px;
+	top: 31px;
+	overflow: visible;
+}
+#Group_19 {
+	position: absolute;
+	width: 246px;
+	height: 317px;
+	left: 390px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_11_ {
+	fill: rgba(255,255,255,1);
+}
+.Path_11_ {
+	filter: drop-shadow(0px 10px 15px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 291px;
+	height: 362px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Facebook {
+	left: 68px;
+	top: 159px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Group_7_ {
+	position: absolute;
+	width: 152px;
+	height: 61px;
+	left: 47px;
+	top: 240px;
+	overflow: visible;
+}
+#Rectangle_5_ {
+	fill: transparent;
+	stroke: rgba(254,206,58,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5_ {
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+}
+#Visitar_ {
+	left: 46px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(254,206,58,1);
+}
+#NoPath_-_Copy_4 {
+	position: absolute;
+	width: 126px;
+	height: 122px;
+	left: 61px;
+	top: 31px;
+	overflow: visible;
+}
+#Nuestros_medios_de_contacto_bb {
+	left: 1199px;
+	top: 570px;
+	position: absolute;
+	overflow: visible;
+	width: 400px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Group_21 {
+	position: absolute;
+	width: 636px;
+	height: 317px;
+	left: 1080px;
+	top: 682px;
+	overflow: visible;
+}
+#Group_18_bd {
+	position: absolute;
+	width: 246px;
+	height: 317px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_11_be {
+	fill: rgba(255,255,255,1);
+}
+.Path_11_be {
+	filter: drop-shadow(0px 10px 15px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 291px;
+	height: 362px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#WhatsApp_bf {
+	left: 62px;
+	top: 159px;
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Group_7_bg {
+	position: absolute;
+	width: 152px;
+	height: 61px;
+	left: 47px;
+	top: 240px;
+	overflow: visible;
+}
+#Rectangle_5_bh {
+	fill: transparent;
+	stroke: rgba(254,206,58,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5_bh {
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+}
+#Visitar_bi {
+	left: 46px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(254,206,58,1);
+}
+#NoPath_-_Copy_3_bj {
+	position: absolute;
+	width: 126px;
+	height: 122px;
+	left: 61px;
+	top: 31px;
+	overflow: visible;
+}
+#Group_19_bk {
+	position: absolute;
+	width: 246px;
+	height: 317px;
+	left: 390px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_11_bl {
+	fill: rgba(255,255,255,1);
+}
+.Path_11_bl {
+	filter: drop-shadow(0px 10px 15px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 291px;
+	height: 362px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Facebook_bm {
+	left: 68px;
+	top: 159px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#Group_7_bn {
+	position: absolute;
+	width: 152px;
+	height: 61px;
+	left: 47px;
+	top: 240px;
+	overflow: visible;
+}
+#Rectangle_5_bo {
+	fill: transparent;
+	stroke: rgba(254,206,58,1);
+	stroke-width: 4px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_5_bo {
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	height: 61px;
+	left: 0px;
+	top: 0px;
+}
+#Visitar_bp {
+	left: 46px;
+	top: 17px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(254,206,58,1);
+}
+#NoPath_-_Copy_4_bq {
+	position: absolute;
+	width: 126px;
+	height: 122px;
+	left: 61px;
+	top: 31px;
+	overflow: visible;
+}
+#Group_16037 {
+	position: absolute;
+	width: 989px;
+	height: 36px;
+	left: 844px;
+	top: 80px;
+	overflow: visible;
+}
+#Group_5 {
+	position: absolute;
+	width: 727px;
+	height: 34px;
+	left: 135px;
+	top: 2px;
+	overflow: visible;
+}
+#Group_1 {
+	position: absolute;
+	width: 148px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Productos {
+	left: 33px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Icon_simple-cakephp {
+	fill: rgba(112,112,112,1);
+}
+.Icon_simple-cakephp {
+	overflow: visible;
+	position: absolute;
+	width: 23.863px;
+	height: 17.994px;
+	left: 0px;
+	top: 8px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_2 {
+	position: absolute;
+	width: 133.497px;
+	height: 33px;
+	left: 200.502px;
+	top: 1px;
+	overflow: visible;
+}
+#Comprar {
+	left: 34.498px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Icon_ionic-ios-cart {
+	position: absolute;
+	width: 23.259px;
+	height: 20px;
+	left: 0px;
+	top: 7px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(112,112,112,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 3.375px;
+	height: 3.375px;
+	left: 4.751px;
+	top: 16.625px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2 {
+	fill: rgba(112,112,112,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 3.375px;
+	height: 3.375px;
+	left: 16.045px;
+	top: 16.625px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3 {
+	fill: rgba(112,112,112,1);
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 23.259px;
+	height: 15.493px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_4 {
+	position: absolute;
+	width: 129px;
+	height: 33px;
+	left: 598px;
+	top: 0px;
+	overflow: visible;
+}
+#Contacto_b {
+	left: 26px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+	text-decoration: underline;
+}
+#Ellipse_2_b {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_2_b {
+	position: absolute;
+	overflow: visible;
+	width: 23px;
+	height: 25px;
+	left: 0px;
+	top: 4px;
+}
+#Icon_ionic-ios-call_b {
+	fill: rgba(255,255,255,1);
+}
+.Icon_ionic-ios-call_b {
+	overflow: visible;
+	position: absolute;
+	width: 15.216px;
+	height: 12.5px;
+	left: 3.892px;
+	top: 10.25px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_16029 {
+	position: absolute;
+	width: 95px;
+	height: 33px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Login {
+	left: 32px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Icon_awesome-user {
+	fill: rgba(112,112,112,1);
+}
+.Icon_awesome-user {
+	overflow: visible;
+	position: absolute;
+	width: 22px;
+	height: 26.997px;
+	left: 0px;
+	top: 3.001px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_16031 {
+	position: absolute;
+	width: 119px;
+	height: 33px;
+	left: 558.249px;
+	top: 3px;
+	overflow: visible;
+}
+#Ubicacin_ {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Group_16032 {
+	position: absolute;
+	width: 79.497px;
+	height: 33px;
+	left: 909.502px;
+	top: 3px;
+	overflow: visible;
+}
+#Ms {
+	left: 32.498px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+#Icon_material-more-horiz {
+	fill: rgba(112,112,112,1);
+}
+.Icon_material-more-horiz {
+	overflow: visible;
+	position: absolute;
+	width: 24px;
+	height: 6px;
+	left: 0px;
+	top: 13.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_material-location-on {
+	fill: rgba(112,112,112,1);
+}
+.Icon_material-location-on {
+	overflow: visible;
+	position: absolute;
+	width: 21px;
+	height: 30px;
+	left: 528px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
